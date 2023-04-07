@@ -1,5 +1,7 @@
-# Repositório do cursos de Bootcamp da XP Educação
+# Repositório de cursos XP Educação
 
-### Curso de Ciência de Dados em Renda Fixa 
-### Curso de Ciência de Dados em Renda Variável 
-### Curso de Arquiteto de Machine Learning 
+Material dos bootcamp XPE:
+
+- Curso de Ciência de Dados em Renda Fixa 
+- Curso de Ciência de Dados em Renda Variável 
+- Curso de Arquiteto de Machine Learning 
