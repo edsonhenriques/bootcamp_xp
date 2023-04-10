@@ -1,4 +1,4 @@
-# Repositório de cursos XP Educação
+## Repositório dos cursos da XP Educação
 
 Material dos bootcamp XPE:
 
