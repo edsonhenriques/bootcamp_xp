@@ -1,0 +1,29 @@
+1 - Todas as alternativas estão corretas
+
+2 - Debêntures
+
+3 - Podem investir tanto em imóveis como em Títulos de Crédito vinculado ao mercado imobiliário como CRIs
+
+4 - Aqueles associados aos balanços das empresas
+
+5 - Quanto mais baixo o múltiplo, mas barata é a empresa
+
+6 - A exposição de um determinado ativo ao risco de mercado
+
+7 - leva em consideração somente a variância negativa do ativo
+
+8 - volatilidade e correlação.
+
+9 - Percentual da posição da carteira em relação ao ADTV
+
+10 - São dados que não adicionam valor no processo de descoberta de padrões
+
+11 - Resquests - HTML e Selenium
+
+12 - write()
+
+13 - sort_values()
+
+14 - CREATE TABLE
+
+15 - Pandas e Numpy
